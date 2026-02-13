@@ -1,7 +1,4 @@
 # Below are useful info to host this Agentic RAG app using MCP
-
-_Note: Please refer to the video ('Building Agentic RAG using MCP') on my [youtube channel](youtube.com/@machinelearningplus) for a complete walkthrough._ 
-
 ## Step 1: Start the Qdrant container
 
 Start the QDrant container
@@ -39,5 +36,6 @@ __To know the location of 'uv'__
 ```
 
 It should show the status in green and display the tools: `f1_faq_search_tool` and `bright_data_web_search_tool`.
+
 
 You can now open the chat in cursor (Ctrl + L) and ask questions.
